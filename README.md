@@ -4,6 +4,12 @@ Este projeto demonstra o uso do **padrão de projeto Template Method** em Java, 
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="480" height="296" alt="588616876-7efde20a-1438-4d45-b4b0-f1f806ad3357" src="https://github.com/user-attachments/assets/4e9984ed-fae4-47ee-ac82-5bc5c0d747a0" />
+
+
 - **Classe abstrata**
   - `Veiculo` → define atributos comuns (placa, modelo, valor venal) e o método template `getInfo()`, que organiza a saída chamando métodos abstratos.
 
